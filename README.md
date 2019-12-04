@@ -1,5 +1,6 @@
 benchmark thử các ngôn ngữ, cộng trừ nhân chia 1tr lần, chạy test 3 lần
 
+```
 ===> benchmarking php
 PHP 7.4.0 (cli) (built: Nov 28 2019 20:31:53) ( NTS )
 Copyright (c) The PHP Group
@@ -27,3 +28,4 @@ OpenJDK 64-Bit Server VM (build 13.0.1+9, mixed mode, sharing)
 execution time: 335 ms
 execution time: 332 ms
 execution time: 342 ms
+```
