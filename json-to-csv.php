@@ -3,7 +3,7 @@
 global $argv;
 if(count($argv) < 2)
     throw new Exception('please specify the directory that you want to combine all your *.json file');
-$files = glob($argv[1] . '/test*.json');
+$files = glob($argv[1] . '/*.json');
 print_r($files);
 if(empty($files))
     throw new Exception('no json file detected');
