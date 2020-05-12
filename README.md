@@ -1,3 +1,6 @@
+step by step explaining neural network: https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/
+
+
 benchmark thử các ngôn ngữ, cộng trừ nhân chia 1tr lần, chạy test 3 lần
 
 ```
